@@ -1,4 +1,4 @@
-# type-safe-fetch
+# Next Typed Fetch
 
 A type-safe wrapper for the Fetch API that adds TypeScript support for better type safety in requests and responses.
 
