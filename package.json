@@ -1,0 +1,29 @@
+{
+  "name": "next-typed-fetch",
+  "version": "0.0.1",
+  "description": "A type-safe wrapper for the Fetch API",
+  "main": "dist/tFetch.js",
+  "types": "dist/tFetch.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PhumudzoSly/next-typed-fetch"
+  },
+  "keywords": [
+    "fetch",
+    "typescript",
+    "type-safe",
+    "http"
+  ],
+  "author": "Phumudzo",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.x"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.x",
+    "typescript": "^4.x"
+  }
+}
